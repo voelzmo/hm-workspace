@@ -9,7 +9,7 @@
 	url = https://github.com/cloudfoundry/go_cfmessagebus.git
 [submodule "src/github.com/cloudfoundry/hm9000"]
 	path = src/github.com/cloudfoundry/hm9000
-	url = https://github.com/cloudfoundry/hm9000.git
+	url = https://github.com/voelzmo/hm9000.git
 [submodule "src/github.com/cloudfoundry/yagnats"]
 	path = src/github.com/cloudfoundry/yagnats
 	url = https://github.com/cloudfoundry/yagnats.git
@@ -36,7 +36,7 @@
 	url = https://github.com/samuel/go-zookeeper.git
 [submodule "src/github.com/cloudfoundry/loggregatorlib"]
 	path = src/github.com/cloudfoundry/loggregatorlib
-	url = https://github.com/cloudfoundry/loggregatorlib
+	url = https://github.com/voelzmo/loggregatorlib
 [submodule "src/github.com/cloudfoundry/gosteno"]
 	path = src/github.com/cloudfoundry/gosteno
 	url = https://github.com/cloudfoundry/gosteno
